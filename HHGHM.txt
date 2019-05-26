@@ -1,0 +1,27 @@
+# program for printing *
+
+n=5;
+for i in range(n):
+    for j in range(i):
+        print ("* "),
+    print
+
+for i in range(n,0,-1):
+    for j in range(i):
+        print("* "),
+    print    
+
+*
+**
+***
+****
+*****
+****
+***
+**
+*
+
+# program for * pattern     
+
+id:  zibbutabbu
+password:  Zibrankhan786

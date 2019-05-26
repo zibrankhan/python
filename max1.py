@@ -1,0 +1,7 @@
+x=int(input("Enter the 1st value:"))
+y=int(input("Enter the 2nd value:"))
+z=int(input("Enter the 3rd value:"))
+print ("The max value is")
+import pdb; pdb.set_trace()
+print(max(x,y,z))
+input("Press enter to exit")

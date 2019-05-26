@@ -1,0 +1,71 @@
+#name = raw_input("Enter the name: ")
+#print(name  + str(100))
+
+#dir(__builtins__)
+
+#x = abs(450255.4585)
+#print (x)
+
+
+#for i in range(0,6):
+ #   for j in range(0,i+1):
+  #      print ("*"),
+   # print
+
+#x = int(input("Enter the 1st number: "))
+#y = int(input("Enter the 2nd number: "))
+#z = int(input("Enter the 3rd number: "))
+
+#print (max(x,y,z))
+
+##a = "Hello"
+#b = "\tJaaanuu"
+#print ((a+b) + str(10))
+
+#names = ["khan","king","Imran"]
+#names.append("ayan")
+#print (names)
+
+#age = [23,45,78]
+
+#names.extend(age)
+#print (names)
+#names.remove("khan")
+#print (names, age)
+#print(len(names))
+#print(len(age))
+
+
+mylist = [0,1,2,3,4,8,9]
+#print(mylist[::-1])
+
+#mylist.reverse()
+#print (mylist)
+print(mylist[::])
+#print(mylist[::-2])
+
+
+
+x = str(raw_input("input the number: "))
+
+if x>0:
+    print ("the absolute value of ", x)
+else:
+    print ('THe absolute value of:  ', x)
+
+
+
+name = str(raw_input("Please enter the name: "))
+age = int(raw_input("please enter the age: "))
+if name=="khan" and age==20:
+    print ("The entered name is: ", name, "age is ", age)
+elif name=="london" and age ==25:
+    print ("The entered name is: ", name, "age is ", age)
+
+elif name =="kgf" and age ==45:
+    print ("The entered name is: ", name, "age is ", age)
+
+else:
+    print ("The entered name is: ", name, "age is ", age)
+
+

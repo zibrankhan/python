@@ -1,0 +1,11 @@
+https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+
+https://mechanize.readthedocs.io/en/latest/
+
+https://www.pythonforbeginners.com/python-on-the-web/browsing-in-python-with-mechanize/
+
+https://www.pythonforbeginners.com/python-on-the-web/browsing-in-python-with-mechanize/
+
+https://github.com/python-mechanize/mechanize
+
+https://www.dataquest.io/blog/web-scraping-tutorial-python/
